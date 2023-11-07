@@ -1,7 +1,7 @@
-package ModelElements;
+package Editor3D.ModelElements;
 
-import Other.Angle3D;
-import Other.Point3D;
+import Editor3D.Other.Angle3D;
+import Editor3D.Other.Point3D;
 
 import java.awt.*;
 

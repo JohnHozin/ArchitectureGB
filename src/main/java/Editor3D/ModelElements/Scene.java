@@ -1,6 +1,6 @@
-package ModelElements;
+package Editor3D.ModelElements;
 
-import Other.Type;
+import Editor3D.Other.Type;
 
 import java.util.List;
 
