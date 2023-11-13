@@ -14,8 +14,5 @@ public class Vehicle {
         return this.maxSpeed;
     }
 
-    public String getType() {
-        return this.type;
-    }
 }
 

@@ -1,6 +1,5 @@
 package CarApp.HomeWork.DependencyInversionPrinciple;
 
-public class PetrolEngine {
-    public void start() {
-    }
+public interface PetrolEngine {
+    public void start();
 }

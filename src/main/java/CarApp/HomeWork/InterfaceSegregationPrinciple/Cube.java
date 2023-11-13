@@ -1,6 +1,6 @@
 package CarApp.HomeWork.InterfaceSegregationPrinciple;
 
-public class Cube implements Shape {
+public class Cube implements ShapeArea, ShapeVolume {
     private int edge;
     public Cube(int edge) {
         this.edge = edge;

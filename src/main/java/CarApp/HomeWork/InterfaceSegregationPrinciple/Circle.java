@@ -1,6 +1,6 @@
 package CarApp.HomeWork.InterfaceSegregationPrinciple;
 
-public class Circle implements Shape {
+public class Circle implements ShapeArea {
     private double radius;
     public Circle(double radius) {
         this.radius = radius;
@@ -9,8 +9,5 @@ public class Circle implements Shape {
     public double area() {
         return 2 * 3.14 * radius;
     }
-    @Override
-    public double volume() {
-        throw new UnsupportedOperationException();
-    }
+
 }

@@ -1,7 +1,6 @@
 package CarApp.HomeWork.InterfaceSegregationPrinciple;
 
-public interface Shape {
+public interface ShapeArea {
     double area();
-    double volume();
 }
 
