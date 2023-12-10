@@ -4,17 +4,75 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cbcd71d-ec61-4f5b-8659-e49b05c5ff1e" name="Changes" comment="make seminar3">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReportsApp/ERD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReportsApp/UML.png" afterDir="false" />
+    <list default="true" id="2cbcd71d-ec61-4f5b-8659-e49b05c5ff1e" name="Changes" comment="make seminar hole">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar1/ModelElements/Texture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar1/Other/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar6/ERD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar6/UseCase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar8/ERD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar8/UIUX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar8/UML.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/Classes/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Classes/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/Classes/Pickup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Classes/Pickup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/Enumerators/TypeCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Enumerators/TypeCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/Enumerators/TypeFuel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Enumerators/TypeFuel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/Enumerators/TypeGearBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Enumerators/TypeGearBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/DependencyInversionPrinciple/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/DependencyInversionPrinciple/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/DependencyInversionPrinciple/PetrolEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/DependencyInversionPrinciple/PetrolEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/InterfaceSegregationPrinciple/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/InterfaceSegregationPrinciple/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/InterfaceSegregationPrinciple/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/InterfaceSegregationPrinciple/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/InterfaceSegregationPrinciple/ShapeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/InterfaceSegregationPrinciple/ShapeArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/InterfaceSegregationPrinciple/ShapeVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/InterfaceSegregationPrinciple/ShapeVolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/LiskovSubstitutionPrinciple/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/LiskovSubstitutionPrinciple/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/LiskovSubstitutionPrinciple/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/LiskovSubstitutionPrinciple/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/OpenClosedPrinciple/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/OpenClosedPrinciple/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/OpenClosedPrinciple/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/OpenClosedPrinciple/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/OpenClosedPrinciple/SpeedCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/OpenClosedPrinciple/SpeedCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/OpenClosedPrinciple/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/OpenClosedPrinciple/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/SingleResponsibilityPrinciple/CalculateSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/SingleResponsibilityPrinciple/CalculateSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/HomeWork/SingleResponsibilityPrinciple/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/HomeWork/SingleResponsibilityPrinciple/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/Interfaces/ICarWash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Interfaces/ICarWash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/Interfaces/IFuelStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Interfaces/IFuelStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarApp/diagram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/diagram.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/InMemoryModel/IMemoryChangeObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/InMemoryModel/IMemoryChangeObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/InMemoryModel/IModelChanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/InMemoryModel/IModelChanger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/InMemoryModel/ModelStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/InMemoryModel/ModelStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/ModelElements/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/ModelElements/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/ModelElements/Flash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/ModelElements/Flash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/ModelElements/Poligon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/ModelElements/Poligon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/ModelElements/PolygonalModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/ModelElements/PolygonalModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/ModelElements/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/ModelElements/Scene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/ModelElements/Texture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/Other/Angle3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/Other/Angle3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/Other/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar1/Other/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Editor3D/Other/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InternetShop/diagram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar5/diagram.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReportsApp/ERD.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar7/ERD.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReportsApp/UML.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar7/UML.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Fabrics/AppleGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Fabrics/AppleGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Fabrics/BananaGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Fabrics/BananaGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Fabrics/GemGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Fabrics/GemGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Fabrics/GoldGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Fabrics/GoldGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Fabrics/ItemGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Fabrics/ItemGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Fabrics/OrangeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Fabrics/OrangeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Fabrics/PearGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Fabrics/PearGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Fabrics/StrawberryGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Fabrics/StrawberryGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Interface/IGameItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Interface/IGameItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Products/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Products/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Products/Banana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Products/Banana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Products/Gem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Products/Gem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Products/Gold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Products/Gold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Products/ItemReward.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Products/ItemReward.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Products/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Products/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Products/Pear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Products/Pear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardApp/Products/Strawberry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar2/Products/Strawberry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tickets/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar4/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tickets/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar4/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tickets/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar4/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +111,21 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaProjects\ArchitectureGB\src\main\java\Seminar8" />
+      <recent name="D:\javaProjects\ArchitectureGB\src\main\java\Seminar5" />
       <recent name="D:\javaProjects\ArchitectureGB\src\main\java\ReportsApp" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Seminar10" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.CarApp.Main">
-    <configuration name="CarApp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarApp.Main" />
+  <component name="RunManager" selected="Application.Seminar3.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar2.Main" />
       <module name="ArchitectureGB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CarApp.*" />
+          <option name="PATTERN" value="Seminar2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RewardApp.Main" />
+    <configuration name="Seminar3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar3.Main" />
       <module name="ArchitectureGB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RewardApp.*" />
+          <option name="PATTERN" value="Seminar3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,8 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarApp.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Seminar3.Main" />
+        <item itemvalue="Application.Seminar2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +165,9 @@
       <workItem from="1699464690368" duration="3000000" />
       <workItem from="1699508867881" duration="995000" />
       <workItem from="1699546567174" duration="4648000" />
-      <workItem from="1701690715869" duration="686000" />
+      <workItem from="1701690715869" duration="1312000" />
+      <workItem from="1701967177007" duration="1119000" />
+      <workItem from="1702209330253" duration="5327000" />
     </task>
     <task id="LOCAL-00001" summary="make hw1">
       <created>1699361739022</created>
@@ -125,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699509725039</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="make seminar7">
+      <created>1701693172330</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701693172330</updated>
+    </task>
+    <task id="LOCAL-00005" summary="make seminar hole">
+      <created>1701967690582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701967690582</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +225,8 @@
     <MESSAGE value="make hw1" />
     <MESSAGE value="make hw2" />
     <MESSAGE value="make seminar3" />
-    <option name="LAST_COMMIT_MESSAGE" value="make seminar3" />
+    <MESSAGE value="make seminar7" />
+    <MESSAGE value="make seminar hole" />
+    <option name="LAST_COMMIT_MESSAGE" value="make seminar hole" />
   </component>
 </project>
