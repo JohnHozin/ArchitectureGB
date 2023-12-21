@@ -1,5 +1,5 @@
 package Seminar11;
 
-public class Mai {
+public class Main {
     // Заглушка для домашней работы
 }
